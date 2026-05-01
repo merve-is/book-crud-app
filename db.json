@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Martin Eden",
+      "author": "Jack London",
+      "year": "1909"
+    },
+    {
+      "id": "2",
+      "title": "Sineklerin Tanrısı",
+      "author": "William Golding",
+      "year": "1954"
+    },
+    {
+      "id": "3",
+      "title": "Suç ve Ceza",
+      "author": "Fyodor Dostoyevski",
+      "year": "1866"
+    },
+    {
+      "id": "4",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "year": "2011"
+    },
+    {
+      "id": "5",
+      "title": "Beyaz Geceler",
+      "author": "Fyodor Dostoyevski",
+      "year": "1848"
+    },
+    {
+      "id": "6",
+      "title": "Sefiller",
+      "author": "Victor Hugo",
+      "year": "1862"
+    },
+    {
+      "id": "7",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": "1949"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
