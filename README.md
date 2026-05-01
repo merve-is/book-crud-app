@@ -1,4 +1,4 @@
-# Hello Books 📚
+# Make Books Collection 📚
 
 A simple and modern book management app built with React and TypeScript.
 
